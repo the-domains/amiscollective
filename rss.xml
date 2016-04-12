@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[All Made In Sequence]]></title>
+        <description><![CDATA[All Made In Sequence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 09:06:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intro: All Made In Sequence (Amís)]]></title>
+            <description><![CDATA[<article><h1>Intro: All Made In Sequence (Amís)</h1><p>Amís, a french noun for "friends", is also given new meaning by us to represent the acronym All Made In Sequence. The vision for this collective has been bouncing around in my head since 2012, before I was even much of an artist at all. Formerly using the term Another Man In Space, Amis is a vision that's slowly been coming together in my head over these past couple years. </p></article>]]></description>
+            <link>undefinedintro-all-made-in-sequence-amis/index.html</link>
+            <guid isPermaLink="false">25552f3f-9c71-4735-8feb-4b5a401aef13</guid>
+            <pubDate>Tue, 12 Apr 2016 09:06:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
