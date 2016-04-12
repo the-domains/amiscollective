@@ -1,7 +1,7 @@
 name: Amís Collective
 favicon: null
-layout_spectrum: 0.8562467198353261
-typography_spectrum: 0.9366777017712593
+layout_spectrum: 1
+typography_spectrum: 0.14209
 title: All Made In Sequence
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5042891129851341
-  lightness: 0.5652870084159076
-  saturation: 0.08484057267196476
-  rhythmicContrast: 0.8002992970868945
+    - '#c1c4c9'
+    - '#435e72'
+    - '#6f7e8d'
+    - '#eeeff3'
+    - '#02263b'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
