@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[All Made In Sequence]]></title>
         <description><![CDATA[All Made In Sequence]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amiscollective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 09:06:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 21:49:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amiscollective/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa99709f-2517-42df-a190-b8e1123845f9.png">]]></description>
+            <link>https://thegrid.ai/amiscollective/0e47cb6e-91f9-42f2-a693-3846ac1c4a97/index.html</link>
+            <guid isPermaLink="false">0e47cb6e-91f9-42f2-a693-3846ac1c4a97</guid>
+            <pubDate>Wed, 20 Apr 2016 21:48:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Intro: All Made In Sequence (Amís)]]></title>
-            <description><![CDATA[<article><h1>Intro: All Made In Sequence (Amís)</h1><p>Amís, a french noun for "friends", is also given new meaning by us to represent the acronym All Made In Sequence. The vision for this collective has been bouncing around in my head since 2012, before I was even much of an artist at all. Formerly using the term Another Man In Space, Amis is a vision that's slowly been coming together in my head over these past couple years. </p></article>]]></description>
-            <link>undefinedintro-all-made-in-sequence-amis/index.html</link>
+            <description><![CDATA[<p>Amís, a french noun for "friends", is also given new meaning by us to represent the acronym All Made In Sequence. The vision for this collective has been bouncing around in my head since 2012, before I was even much of an artist at all. Formerly using the term Another Man In Space, Amis is a vision that's slowly been coming together in my head over these past couple years. </p>]]></description>
+            <link>https://thegrid.ai/amiscollective/intro-all-made-in-sequence-amis/index.html</link>
             <guid isPermaLink="false">25552f3f-9c71-4735-8feb-4b5a401aef13</guid>
             <pubDate>Tue, 12 Apr 2016 09:06:41 GMT</pubDate>
         </item>
